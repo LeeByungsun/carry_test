@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "424542510082",
+    "firebase_url": "https://bswallet-1208.firebaseio.com",
+    "project_id": "bswallet-1208",
+    "storage_bucket": "bswallet-1208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424542510082:android:eb4a276cae7b3ef0",
+        "android_client_info": {
+          "package_name": "com.buggyani.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424542510082-lvqg02t4fff1hlvgb9nuo7ma4ra86hjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZLphNkDSPcVkyeYzxavAk6h4G_-YO4Xc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
